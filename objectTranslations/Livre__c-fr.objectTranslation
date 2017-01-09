@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Livre</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Livres</value>
+    </caseValues>
+    <fields>
+        <label><!-- Auteur --></label>
+        <name>Auteur__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ecrivain --></label>
+        <name>Ecrivain__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nb chapitre --></label>
+        <name>Nb_chapitre__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nb de pages --></label>
+        <name>Nb_de_pages__c</name>
+    </fields>
+    <fields>
+        <label><!-- Producteur --></label>
+        <name>Producteur__c</name>
+    </fields>
+    <gender>Masculine</gender>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
