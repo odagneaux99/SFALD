@@ -645,6 +645,7 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>Case.Rule 1</members>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>
