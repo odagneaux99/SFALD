@@ -20,6 +20,24 @@
         <ruleEntry>
             <businessHoursSource>Case</businessHoursSource>
             <criteriaItems>
+                <field>Case.IsEscalated</field>
+                <operation>equals</operation>
+                <value>True</value>
+            </criteriaItems>
+            <escalationStartTime>CaseCreation</escalationStartTime>
+        </ruleEntry>
+        <ruleEntry>
+            <businessHoursSource>Case</businessHoursSource>
+            <criteriaItems>
+                <field>Case.Reason</field>
+                <operation>contains</operation>
+                <value>Performance,Breakdown</value>
+            </criteriaItems>
+            <escalationStartTime>CaseCreation</escalationStartTime>
+        </ruleEntry>
+        <ruleEntry>
+            <businessHoursSource>Case</businessHoursSource>
+            <criteriaItems>
                 <field>Case.Origin</field>
                 <operation>equals</operation>
                 <value>Web</value>
