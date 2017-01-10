@@ -55,6 +55,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>employeur__c</fullName>
+        <externalId>false</externalId>
+        <label>employeur</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <gender>Feminine</gender>
     <label>Jobs</label>
     <nameField>
