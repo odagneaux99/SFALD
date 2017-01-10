@@ -56,6 +56,15 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Mail_contact__c</fullName>
+        <externalId>false</externalId>
+        <label>Mail contact</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Tel_contact__c</fullName>
         <externalId>false</externalId>
         <label>Tel contact</label>
