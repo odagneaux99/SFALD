@@ -658,6 +658,10 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>sf_com_apps</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
@@ -897,6 +901,11 @@
         <members>Order</members>
         <members>User</members>
         <name>SharingRules</name>
+    </types>
+    <types>
+        <members>en_US</members>
+        <members>fr</members>
+        <name>Translations</name>
     </types>
     <types>
         <members>Account.Billing</members>
