@@ -57,6 +57,7 @@
         <members>Contact.Level__c</members>
         <members>Contact.Test__c</members>
         <members>Goal.OrigGoalId__c</members>
+        <members>Jobs__c.Tel_contact__c</members>
         <members>Jobs__c.employeur__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>

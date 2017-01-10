@@ -56,6 +56,14 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Tel_contact__c</fullName>
+        <externalId>false</externalId>
+        <label>Tel contact</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>employeur__c</fullName>
         <externalId>false</externalId>
         <label>employeur</label>
