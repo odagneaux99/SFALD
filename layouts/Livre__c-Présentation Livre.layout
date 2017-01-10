@@ -30,6 +30,10 @@
                 <behavior>Edit</behavior>
                 <field>Nb_chapitre__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Tel_auteur__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
