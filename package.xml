@@ -69,6 +69,7 @@
         <members>Livre__c.Nb_de_pages__c</members>
         <members>Livre__c.Producteur__c</members>
         <members>Livre__c.Tel_auteur__c</members>
+        <members>Livre__c.adresse_auteur__c</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
