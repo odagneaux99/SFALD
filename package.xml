@@ -429,6 +429,7 @@
         <members>Livre__c.Tel_editeur__c</members>
         <members>Livre__c.adresse_auteur__c</members>
         <members>Livre__c.email_auteur__c</members>
+        <members>Livre__c.email_editeur__c</members>
         <members>Macro.Description</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
@@ -657,6 +658,10 @@
     <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>sf_com_apps</members>
+        <name>InstalledPackage</name>
     </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -898,6 +903,11 @@
         <members>Order</members>
         <members>User</members>
         <name>SharingRules</name>
+    </types>
+    <types>
+        <members>en_US</members>
+        <members>fr</members>
+        <name>Translations</name>
     </types>
     <types>
         <members>Account.Billing</members>

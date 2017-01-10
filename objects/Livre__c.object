@@ -142,6 +142,15 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>email_editeur__c</fullName>
+        <externalId>false</externalId>
+        <label>email editeur</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
     <gender>Masculine</gender>
     <label>Livre</label>
     <listViews>
