@@ -428,6 +428,7 @@
         <members>Livre__c.Tel_auteur__c</members>
         <members>Livre__c.adresse_auteur__c</members>
         <members>Livre__c.email_auteur__c</members>
+        <members>Livre__c.email_editeur__c</members>
         <members>Macro.Description</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
