@@ -963,6 +963,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Livre__c.Tel_editeur__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Livre__c.adresse_auteur__c</field>
         <readable>true</readable>
     </fieldPermissions>
