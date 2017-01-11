@@ -175,6 +175,17 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>nombre_pages__c</fullName>
+        <externalId>false</externalId>
+        <label>nombre pages</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
     <gender>Masculine</gender>
     <label>Livre</label>
     <listViews>
