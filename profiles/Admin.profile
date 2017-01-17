@@ -943,6 +943,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Livre__c.Fabien__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Livre__c.Nb_chapitre__c</field>
         <readable>true</readable>
     </fieldPermissions>

@@ -54,6 +54,10 @@
                 <behavior>Edit</behavior>
                 <field>nombre_pages__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Fabien__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
