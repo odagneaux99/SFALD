@@ -56,7 +56,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Fabien__c</field>
+                <field>Olivier__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
