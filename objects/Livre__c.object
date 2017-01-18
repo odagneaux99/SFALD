@@ -56,37 +56,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Auteur__c</fullName>
-        <description>Auteur du livre</description>
-        <externalId>false</externalId>
-        <label>Auteur</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Ecrivain__c</fullName>
-        <externalId>false</externalId>
-        <label>Ecrivain</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Fabien__c</fullName>
-        <externalId>false</externalId>
-        <label>Fabien</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Nb_chapitre__c</fullName>
         <externalId>false</externalId>
         <label>Nb chapitre</label>
@@ -111,16 +80,6 @@
         <fullName>Olivier__c</fullName>
         <externalId>false</externalId>
         <label>Olivier</label>
-        <length>20</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Producteur__c</fullName>
-        <externalId>false</externalId>
-        <label>Producteur</label>
         <length>20</length>
         <required>false</required>
         <trackTrending>false</trackTrending>

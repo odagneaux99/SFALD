@@ -424,13 +424,9 @@
         <members>Lead.Title</members>
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
-        <members>Livre__c.Auteur__c</members>
-        <members>Livre__c.Ecrivain__c</members>
-        <members>Livre__c.Fabien__c</members>
         <members>Livre__c.Nb_chapitre__c</members>
         <members>Livre__c.Nb_de_pages__c</members>
         <members>Livre__c.Olivier__c</members>
-        <members>Livre__c.Producteur__c</members>
         <members>Livre__c.Tel_auteur__c</members>
         <members>Livre__c.Tel_editeur__c</members>
         <members>Livre__c.Type__c</members>
